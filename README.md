@@ -1,2 +1,2 @@
-# vector.lua
-a vector library for lua
+# vector
+a 2d vector library for lua
